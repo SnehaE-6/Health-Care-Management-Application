@@ -5,12 +5,12 @@
 <hr/>
 <br>
 
-### Following are The Key Points About Project
+### Points About HealthCare Manangeent Application
 
 <br>
 
 
-1.  ### Introduction 🙌
+1.  ### Introduction 
 
 <p class="text-justify">The healthcare industry is an essential part of any society, and it plays a significant role in maintaining and improving the health of individuals. With the advances in technology, the healthcare industry has evolved significantly, and there is a need for innovative solutions to enhance the efficiency and quality of healthcare services. This project proposal aims to develop a comprehensive healthcare system that addresses the challenges faced by healthcare providers and patients.</p>
 
@@ -89,8 +89,6 @@
 
 
     </p>
-
-9.  ### Project Members 👨‍👦
 
     <br/>
 
