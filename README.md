@@ -92,7 +92,4 @@
 
     <br/>
 
-    <a href="https://github.com/Huzzifa787">![avatar](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/89720984?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d) &nbsp;&nbsp;
-    <a href="https://github.com/Abdul9272">![avatar](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/97548920?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d)
-
 ---
