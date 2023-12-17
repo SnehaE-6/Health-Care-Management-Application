@@ -1,6 +1,6 @@
-<h1 align="center">Healthcare Center Application</h1>
+<h1 align="center">Healthcare Management Application</h1>
 
-<h3 align="center">This Project is Part of My Mobile Application Development Course</h3>
+<h3 align="center">Project on Mobile Application Development</h3>
 
 <hr/>
 <br>
@@ -45,7 +45,7 @@
 
     </p>
 
-3.  ### Platform Supported ✂
+3.  ### Platform Supported 
 
 <p>As we are developing a mobile application there are 4 platform supported.
 <ul>
